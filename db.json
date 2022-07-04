@@ -1,0 +1,71 @@
+{
+  "Breakfast": [
+    {
+      "id": 1,
+      "name": "Buttermilk Pancakes",
+      "image": "https://kristineskitchenblog.com/wp-content/uploads/2021/04/buttermilk-pancakes-1200-square-for-recipe-card-40.jpg",
+      "desc": "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed",
+      "price": "10$"
+    },
+    {
+      "id": 2,
+      "name": "Country Delight",
+      "image": "https://simplex.host/Images/Hanburger.jpeg",
+      "price": "12$",
+      "desc": "Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut"
+    },
+    {
+      "id": 3,
+      "name": "Bacon Overflow",
+      "image": "https://www.menu.anneson.com/images/item-7.jpeg",
+      "price": "15$",
+      "desc" : "carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird"
+    }
+  ],
+  "Lunch" : [
+    {
+      "id": 4,
+      "name": "Diner Double",
+      "image": "https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/htoyiqwv/c26dd28b-e700-42c9-89f3-fb6171e1a86d.jpg",
+      "desc": "vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats",
+      "price": "18$"
+    },
+    {
+      "id": 5,
+      "name": "Egg Attack",
+      "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2016%2F02%2Fbrioche-with-prosciutto-gruyere-and-egg-ft-201303-2000.jpg&q=60",
+      "desc": "franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up",
+      "price": "17$"
+    },
+    {
+      "id": 6,
+      "name": "American Classic",
+      "image": "http://www.smh.com.au/content/dam/images/g/q/g/o/m/7/image.imgtype.articleLeadwide.620x349.png/1469766176792.png",
+      "desc": "on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut",
+      "price": "21$"
+    }
+  ],
+  "Shakes" : [
+    {
+      "id": 7,
+      "name": "Godzilla Milkshake",
+      "image": "https://www.menu.anneson.com/images/item-3.jpeg",
+      "desc": "ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.",
+      "price": "19$"
+    },
+    {
+      "id": 8,
+      "name": "Oreo Dream",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sns-fb-ig-ad-oreo-1080x1080-14-1-1566573506.png",
+      "desc": "Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday",
+      "price": "18$"
+    },
+    {
+      "id": 9,
+      "name": "Quarantine Buddy",
+      "image": "https://pbs.twimg.com/media/EVhDJHHWoAAEbkB?format=jpg&name=large",
+      "desc": "skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.",
+      "price": "20$"
+    }
+  ]
+}
